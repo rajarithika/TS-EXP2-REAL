@@ -126,21 +126,21 @@ print(result.resid)
 ## 5. Expected Output
 
 - Monthly average temperature graph.
-  <img width="1050" height="587" alt="image" src="https://github.com/user-attachments/assets/86631a4f-521e-4a67-94b1-559ea357e7d2" />
+<img width="1050" height="587" alt="image" src="https://github.com/user-attachments/assets/86631a4f-521e-4a67-94b1-559ea357e7d2" />
 
 - Observed temperature component.
-  <img width="782" height="143" alt="image" src="https://github.com/user-attachments/assets/d06bb59f-86e1-4eda-bdfb-06ad2a726111" />
+<img width="782" height="143" alt="image" src="https://github.com/user-attachments/assets/d06bb59f-86e1-4eda-bdfb-06ad2a726111" />
 
 - Trend component.
-  <img width="786" height="155" alt="image" src="https://github.com/user-attachments/assets/815a98cd-765b-4ad8-8ebd-d8b2ad6d5735" />
+<img width="786" height="155" alt="image" src="https://github.com/user-attachments/assets/815a98cd-765b-4ad8-8ebd-d8b2ad6d5735" />
 
   
 - Seasonal component.
-  <img width="778" height="152" alt="image" src="https://github.com/user-attachments/assets/4fd30b61-d29d-4a0b-bde8-1e6158e1c309" />
+<img width="778" height="152" alt="image" src="https://github.com/user-attachments/assets/4fd30b61-d29d-4a0b-bde8-1e6158e1c309" />
 
  
 - Residual component.
-  <img width="786" height="173" alt="image" src="https://github.com/user-attachments/assets/85ccb6e5-6f13-4827-a184-bfe320027548" />
+ <img width="786" height="173" alt="image" src="https://github.com/user-attachments/assets/85ccb6e5-6f13-4827-a184-bfe320027548" />
 
 
 
